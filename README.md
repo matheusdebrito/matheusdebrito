@@ -1,4 +1,5 @@
 ## Oi, Eu sou Matheus Estudante de Programação e cursando Ciências da Computação na Universidade Estácio!
+Fortuna Audaces Sequitur
 <div align="center">
   <a href="https://github.com/matheusdebrito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusdebrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
