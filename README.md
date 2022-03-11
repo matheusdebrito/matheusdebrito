@@ -1,4 +1,4 @@
-## Oi, Eu sou Matheus Estudante de Programação e cursando Ciências da Computação na Universidade Estácio!
+## Oi, Eu sou Matheus Desenvolvedor Frontend !
 
 <div align="center">
   <a href="https://github.com/matheusdebrito">
