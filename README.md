@@ -1,4 +1,4 @@
-## Oi, meu nome é Matheus sou Desenvolvedor Frontend !
+## Oi, meu nome é Matheus sou Desenvolvedor de Software !
 
 <div align="center">
   <a href="https://github.com/matheusdebrito">
